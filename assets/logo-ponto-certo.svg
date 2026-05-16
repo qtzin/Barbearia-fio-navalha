@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 150" role="img" aria-labelledby="title desc">
+  <title id="title">Mercado Ponto Certo</title>
+  <desc id="desc">Logo digital do Mercado Ponto Certo</desc>
+  <defs>
+    <filter id="shadow" x="-15%" y="-25%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#14532d" flood-opacity=".12"/>
+    </filter>
+  </defs>
+  <rect width="330" height="150" rx="28" fill="#fffaf5"/>
+  <g filter="url(#shadow)">
+    <g transform="translate(172 30)">
+      <path d="M70 44H28l-7-31H9" fill="none" stroke="#15803d" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M32 21h58L80 58H40z" fill="#f3fff6" stroke="#15803d" stroke-width="6" stroke-linejoin="round"/>
+      <path d="M48 22l5 35M67 22l1 35M85 22l-5 35M40 34h46M44 47h38" stroke="#15803d" stroke-width="3.8" stroke-linecap="round"/>
+      <circle cx="43" cy="75" r="8" fill="#15803d"/>
+      <circle cx="78" cy="75" r="8" fill="#15803d"/>
+    </g>
+    <g transform="translate(24 52)">
+      <text x="0" y="28" font-family="Arial Black, Impact, sans-serif" font-size="34" font-weight="900" fill="#078231">MERCADO</text>
+      <text x="0" y="72" font-family="Arial Black, Impact, sans-serif" font-size="41" font-weight="900" fill="#d20f3f">PONTO CERTO</text>
+    </g>
+  </g>
+</svg>
